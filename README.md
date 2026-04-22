@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm John Wesley Abe</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frieya" alt="frieya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freyph" alt="freyph" /></a> </p>
 
 - 🔭 I’m currently working on **my computer vision thesis**
 
 - 🌱 I’m currently learning **machine learning libraries and technologies such as Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Frieya?tab=repositories](https://github.com/Frieya?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/freyph?tab=repositories](https://github.com/FreyPH?tab=repositories)
 
 - 📫 How to reach me **jwabe2001@gmail.com/john_wesley_abe@dlsu.edu.ph**
 
@@ -63,8 +63,8 @@
 </div>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frieya&show_icons=true&locale=en&layout=compact" alt="frieya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freyph&show_icons=true&locale=en&layout=compact" alt="freyph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frieya&show_icons=true&locale=en" alt="frieya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freyph&show_icons=true&locale=en" alt="freyph" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frieya&" alt="frieya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freyph&" alt="freyph" /></p>
