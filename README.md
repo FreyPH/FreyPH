@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm John Wesley Abe</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freyph" alt="freyph" /></a> </p>
+- 🔭 I’m currently working on **data science and AI projects**
 
-- 🔭 I’m currently working on **my computer vision thesis**
-
-- 🌱 I’m currently learning **machine learning libraries and technologies such as Pytorch**
+- 🌱 I’m currently learning **cloud technologies, ETL, and LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/freyph?tab=repositories](https://github.com/FreyPH?tab=repositories)
 
